@@ -4,3 +4,6 @@
 [submodule "tnyprntf"]
 	path = tnyprntf
 	url = https://github.com/FDOS/tnyprntf
+[submodule "share"]
+	path = share
+	url = https://github.com/binarygeek119/share
